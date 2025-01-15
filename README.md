@@ -1,2 +1,2 @@
 # Network-Intrusion-Detection-System
-Detect unusual or suspicious packets with this repository. 
+A tool to detect unusual or supsicious packets in real-time. By analyzing network traffic, the program will identity threats in real-time 
